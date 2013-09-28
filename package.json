@@ -1,0 +1,18 @@
+{
+  "name": "jslib",
+  "version": "0.0.0",
+  "description": "A toolbox for javascript running in a browser or node environment",
+  "main": "lib/outilscommuns.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Charles Beauregard",
+  "license": "BSD",
+  "devDependencies": {
+      "mocha": "",
+      "should": ""
+  }
+}
